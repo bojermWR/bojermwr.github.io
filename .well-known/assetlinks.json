@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wellright.wellrighttestapplication",
+    "sha256_cert_fingerprints":
+    ["3B:F8:17:C9:6F:91:B2:FA:1D:72:26:54:C4:B8:6C:AC:7A:CB:36:8D:B1:7B:97:90:EE:C9:27:36:E2:2B:8E:42"]
+  }
+}]
